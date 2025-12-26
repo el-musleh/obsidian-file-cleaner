@@ -22,3 +22,10 @@ It can help you clean up empty files and unused attachments in the obsidian vaul
 ### Known issue
 
 -   Attachments used in [Admonition](https://github.com/valentine195/obsidian-admonition) code blocks are not recognized
+
+## ⚠️ Related Project
+
+There is an actively maintained and more feature-complete related project:  
+[obsidian-file-cleaner-redux](https://github.com/husjon/obsidian-file-cleaner-redux) by [husjon](https://github.com/husjon).
+
+If you are looking for additional features or recent updates, you may want to check it out.
